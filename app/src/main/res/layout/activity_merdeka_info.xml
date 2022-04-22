@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background">
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="370dp"
+        android:layout_height="246dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="400dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.695" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="349dp"
+        android:layout_height="316dp"
+        android:scrollbars="vertical"
+        android:text='Merdeka is a word in the Indonesian and Malay language meaning independent or free. It is derived from the Sanskrit maharddhika (महर्द्धिक) meaning "rich, prosperous and powerful". In the Malay archipelago, this term had acquired the meaning of a freed slave.  The term Mardijker is a Dutch corruption of the Portuguese version of the original Sanskrit words and was used to designate former Portuguese and Dutch slaves from India in the East Indies, known as Mardijkers, whence the Malay meaning of "free(dom)" is derived. Mardijker are the former Catholic slaves brought from India and the East Indies that were liberated by the Dutch if they abandoned Catholicism and embraced the Dutch Reformed Church.[1]  The term was significant during the anticolonialist and pro-independence movements of the colonies of Indonesia, Malaya, and Singapore, in the history of Indonesia, history of Malaysia, and in the history of Singapore. It became a battle-cry for those demanding independence from the colonial administrations of the Netherlands and United Kingdom. In the southern Philippine island of Mindanao, the Moro people belonging to major ethno-linguistic groups of Meranaw, Maguindanaw and Iranun, use maradeka in the same meaning as freedom or liberation and a political group there is called Maradeka.  The Pampangan term mardíka (also spelled mardíkas) and the Tagalog maharlika have the same Sanskrit etymology as the Malay merdeka and means freeman, libertos or freedman in classical Philippine society.'
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/videoView"
+        app:layout_constraintVertical_bias="0.512" />
+</androidx.constraintlayout.widget.ConstraintLayout>

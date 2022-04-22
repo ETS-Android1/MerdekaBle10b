@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64701954425",
+    "firebase_url": "https://merdeka-72971-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "merdeka-72971",
+    "storage_bucket": "merdeka-72971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64701954425:android:2d33f33474cfe25f5d17a8",
+        "android_client_info": {
+          "package_name": "com.example.merdeka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64701954425-89jeas5cn532f4uu77999aps5kd58jkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuJ9RA58_ScaX0X_pMLWvY-YPw2XFe_i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64701954425-89jeas5cn532f4uu77999aps5kd58jkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

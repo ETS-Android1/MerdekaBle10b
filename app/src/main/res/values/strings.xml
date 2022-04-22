@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SettingPage</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="connection_header">Connection</string>
+    <string name="theme_header">Theme</string>
+
+    <!-- Types of Connection Preferences -->
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="wifi_title">Wi-fi</string>
+    <string name="location_title">location</string>
+
+    <!-- Theme Preferences -->
+    <string name="dark_title">Dark Mode</string>
+</resources>
