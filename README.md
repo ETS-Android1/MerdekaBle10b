@@ -20,7 +20,7 @@ Code Development
 2.	Once the APK file is done downloading on the device, launch the app and the user will be brought to the Home Page of the app.
 
 <p align="center">
- <img src = ("https://user-images.githubusercontent.com/93644714/165025392-6765995f-5554-400a-93d9-a207cf75d11f.png")>
+ <img src = "https://user-images.githubusercontent.com/93644714/165025392-6765995f-5554-400a-93d9-a207cf75d11f.png">
 </p>
 
 3.	In the Home page the user will 3 buttons being displayed
