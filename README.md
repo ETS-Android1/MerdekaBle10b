@@ -18,16 +18,17 @@ Code Development
 # Using Merdeka App
 1.	Download the APK file onto your desired Android Device. APK file can be found here.
 2.	Once the APK file is done downloading on the device, launch the app and the user will be brought to the Home Page of the app.
+
  ![image](https://user-images.githubusercontent.com/93644714/165025392-6765995f-5554-400a-93d9-a207cf75d11f.png)
 
 3.	In the Home page the user will 3 buttons being displayed
 4.	The topmost button is the information page button. Clicking the button will lead the user to the information page where it will play a video during the Independence Day in Malaysia and a brief description about “Merdeka” below the video.
+
  ![image](https://user-images.githubusercontent.com/93644714/165025601-47a30e3e-b11a-4a0b-b9e2-ca2b10a3f055.png)
 
 5.	The middle button is the connect button, clicking it will lead the user to the Connection page. Upon entering the page, the user shall be requested to enable Bluetooth.
-![image](https://user-images.githubusercontent.com/93644714/165025638-20f914bb-70bc-406c-9b25-a18e32f09b43.png)
 
- 
+![image](https://user-images.githubusercontent.com/93644714/165025638-20f914bb-70bc-406c-9b25-a18e32f09b43.png)
 
 6.	press the “Start Scanning” button to make the app start scanning for devices that have this app installed. During scanning the button will be disabled.
 
