@@ -41,6 +41,10 @@ Code Development
 9.	Right after that, the number of devices in the database will turn to 0 and user can restart the whole process
 
 10.	The third button is for the settings page. On Settings page, the user shall be able to control the permissions that the application requires such as the Bluetooth, WIFI, and Location.
+
+<p align="center">
  ![image](https://user-images.githubusercontent.com/93644714/165025700-e976364d-37e1-4f73-83e4-2536b47220b0.png)
+</p>
+
 
 
