@@ -31,7 +31,7 @@ Code Development
 
 5.	The middle button is the connect button, clicking it will lead the user to the Connection page. Upon entering the page, the user shall be requested to enable Bluetooth.
 
-6.	press the “Start Scanning” button to make the app start scanning for devices that have this app installed. During scanning the button will be disabled.
+6.	Press the “Start Scanning” button to make the app start scanning for devices that have this app installed. During scanning the button will be disabled.
 
 7.	After that the above the button will show how many devices have been found, for example the picture below shows it discovered 2 devices.
 
